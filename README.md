@@ -50,4 +50,21 @@ Agglomerative Clustering of Signed Graphs applied to Instance Segmentation</a></
  
    <li><a target="_blank" href="https://github.com/manjunath5496/3D-segmentation-Neurites-Papers/blob/master/con(25).pdf" style="text-decoration:none;">Machine Learning for Instance Segmentation</a></li>                              
  <li><a target="_blank" href="https://github.com/manjunath5496/3D-segmentation-Neurites-Papers/blob/master/con(26).pdf" style="text-decoration:none;">Optimizing the Computational Efficiency of 3D Segmentation Models for Connectomics</a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/3D-segmentation-Neurites-Papers/blob/master/con(27).pdf" style="text-decoration:none;">Basic Neural Units of the Brain: Neurons, Synapses and Action Potential</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/3D-segmentation-Neurites-Papers/blob/master/con(28).pdf" style="text-decoration:none;">Contrast bath-induced neurite outgrowth in PC12m3 cells via the p38 mitogen-activated protein kinase pathway</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/3D-segmentation-Neurites-Papers/blob/master/con(29).pdf" style="text-decoration:none;">In vitro cellular models for neurotoxicity studies: neurons derived from P19 cells </a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/3D-segmentation-Neurites-Papers/blob/master/con(30).pdf" style="text-decoration:none;">Local translation in neurons: visualization and function</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/3D-segmentation-Neurites-Papers/blob/master/con(31).pdf" style="text-decoration:none;">Neurite Tracing With Object Process</a></li> 
+
+ 
+ 
+ 
+ 
+ 
  </ul>
